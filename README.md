@@ -1,3 +1,3 @@
-# jzwilliams.github.io
+# Jacob Williams
 
-Test test test, does this show up online?
+A GitHub page for my academic, professional, and other work.
